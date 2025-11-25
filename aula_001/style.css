@@ -202,7 +202,6 @@ social-links a:hover {
 @media (min-width: 1400px) {
   .project img {
     object-fit: contain;
-
     padding: 10px;
   }
 }
@@ -328,5 +327,18 @@ social-links a:hover {
 @media (max-width: 360px) {
   .projects-grid {
     grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 600px) {
+  .project img {
+    height: 180px;
+    object-fit: cover;
+  }
+}
+
+@media (max-width: 400px) {
+  .project img {
+    height: 150px;
   }
 }
