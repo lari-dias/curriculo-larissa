@@ -5,10 +5,10 @@ Este currículo foi desenvolvido na primeira aula do curso Elas+ Tech — Front-
 
 ## 🚀 Sobre mim
 
-🎓 Formada em Desenvolvimento Full-Stack pela Recode Pro
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na Anhanguera
-💻 Selecionada entre 1.500 candidatas para o programa Elas+ Tech — Front-End em JavaScript da Ada Tech
-✨ Foco atual: desenvolvimento de interfaces responsivas, acessíveis e com código limpo
+- Formada em Desenvolvimento Full-Stack — Recode Pro
+- Estudante de ADS — Anhanguera
+- Selecionada para o programa Elas+ Tech — Ada Tech
+- Interesse em interfaces responsivas, acessíveis e com boas práticas de código
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -17,25 +17,9 @@ Este currículo foi desenvolvido na primeira aula do curso Elas+ Tech — Front-
 - Versionamento: Git & GitHub
 - Backend / Banco de Dados: Java, SQL, NoSQL
 
-## 📌 Projetos em Destaque
+## 🚀 Deploy do Currículo
 
-🔹 AlfaTech
-Landing page responsiva desenvolvida com HTML5 e CSS3, destacando serviços de hospedagem com design limpo, organizado e orientado à usabilidade.
-
-🔹 Padaria Plus
-Website focado em produtos artesanais, com visual acolhedor e navegação intuitiva para uma experiência fluida do usuário.
-
-🔹 A Era Artificial (Livro)
-Página de apresentação de livro com sinopse, depoimentos e identidade visual alinhada ao projeto editorial.
-
-🔹 Pet Boutique
-Página responsiva voltada para serviços e produtos pet, com foco em acessibilidade e experiência de navegação.
-
-🔹 Imobiliária Santos
-Site responsivo com layout otimizado para visualização de imóveis e informações claras ao usuário.
-
-## 📈 Minha trajetória
-A tecnologia sempre foi minha forma de criar, resolver problemas e transformar ideias em algo visual e acessível. Dedico grande parte do meu tempo ao aprendizado contínuo e à construção de projetos que reforcem minhas habilidades técnicas e criativas.
+🔗 Acesse aqui: https://curriculo-larissa.vercel.app/
 
 ## 🌎 Onde me encontrar
 
