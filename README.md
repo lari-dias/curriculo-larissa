@@ -1,7 +1,7 @@
 ## 🌐 Larissa Dias — Front-End Developer
 
-Olá! 👋 Sou Larissa Dias, desenvolvedora front-end apaixonada por criar interfaces modernas, funcionais e focadas na melhor experiência do usuário.
-Trabalho com tecnologias web e estou sempre em busca de novos desafios que me permitam evoluir como profissional.
+Olá! 👋 Sou Larissa Dias, desenvolvedora front-end focada em criar interfaces modernas e funcionais.
+Este currículo foi desenvolvido na primeira aula do curso Elas+ Tech — Front-End em JavaScript da Ada Tech, com a professora Letícia, como parte da construção do meu portfólio.
 
 ## 🚀 Sobre mim
 
