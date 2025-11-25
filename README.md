@@ -40,5 +40,7 @@ A tecnologia sempre foi minha forma de criar, resolver problemas e transformar i
 ## 🌎 Onde me encontrar
 
 🔗 LinkedIn: https://www.linkedin.com/in/larissa-dias-0b8a2032a/
+
 💻 GitHub: https://github.com/lari-dias
+
 ✉️ E-mail: laridearaujo@hotmail.com
